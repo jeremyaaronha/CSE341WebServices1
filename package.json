@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeremyaaronha/CSE341WebServices1/issues"
   },
-  "homepage": "https://github.com/jeremyaaronha/CSE341WebServices1#readme"
+  "homepage": "https://github.com/jeremyaaronha/CSE341WebServices1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
